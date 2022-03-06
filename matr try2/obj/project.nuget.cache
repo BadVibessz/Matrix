@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/89Ks97fA7p3mSA1lg0o9k/F7O570rAzkMFaErSYFwLRX8WJORl3kFegGQcRzieC0bSYWVWY/oCfOtJtRiCIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\matr try2\\matr try2\\matr try2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
